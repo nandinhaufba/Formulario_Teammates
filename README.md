@@ -4,7 +4,7 @@
 
 Para melhor gerenciamento do trabalho recomendo que cada aluno escolha uma "Issue" a ser trabalhada.
 
-*Obs.: Cada "Issue" se refere aos tópicos do documento 
+*Obs.: Cada "Issue" se refere a um tópicos do documento 
 https://drive.google.com/file/d/1ZH0Pyr6n1ZQ-piZ2ju8rZEoWEOt-MUrF/view?usp=sharing.*
 
 Posteriomente gerencie o andamento da resolução da "Issue" escolhida através do quadro de tarefas disponível em "Projects".
