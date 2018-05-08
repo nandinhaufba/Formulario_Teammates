@@ -13,4 +13,6 @@ Ao responder a "Issue", por favor, clone este repositório, Branch:Master.
 Em seguida crie um arquivo .markdown com a descrição da questão e a resposta.
 Comite o arquivo na branchmaster e envie um Pull Request para o repositório principal.
 
+Semelhante a atividade anterior da disciplina.
+
 Bom trabalho para todos!
