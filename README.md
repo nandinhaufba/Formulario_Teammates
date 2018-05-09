@@ -1,6 +1,10 @@
 # Formulario_Teammates
 
-**ATENÇÃO**
+**ATENÇÃO 1**
+
+Recomendo que todos trabalhem *individualmente* nas primeiras 10 perguntas do relatório (no mínimo), antes de escolher apenas uma "Issue" conforme descrito abaixo. Para tanto, trabalhem pelo menos duas horas seguidas (cronometradas), e vejam até onde conseguem chegar. Registrem a(s) fonte(s) de informação usada(s) em cada resposta (repositório no github? website do projeto? open hub? outra fonte?)
+
+**ATENÇÃO 2**
 
 Para melhor gerenciamento do trabalho recomendo que cada aluno escolha uma "Issue" a ser trabalhada.
 
